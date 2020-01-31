@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello yanijinnn"
+echo "repeat"
 }
 
 func
